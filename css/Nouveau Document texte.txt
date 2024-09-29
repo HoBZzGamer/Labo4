@@ -3,18 +3,18 @@ ul{
     color: yellowgreen;
     font-size: 25px;
 }
-ul li:nth-child(){
+ul ul{
     color: white;
 }
 ol{
     list-style-type: upper-latin;
-     
+     color: white;
 }
 
 body{
     color: white;
     background-image: url(../images/cinema.avif);
-    background-size: ;
+    background-size:cover ;
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 20px;
 }
