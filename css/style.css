@@ -1,0 +1,20 @@
+ul{
+    list-style-type: none;
+    color: yellowgreen;
+    font-size: 25px;
+}
+ul li:nth-child(){
+    color: white;
+}
+ol{
+    list-style-type: upper-latin;
+     
+}
+
+body{
+    color: white;
+    background-image: url(../images/cinema.avif);
+    background-size: ;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+}
